@@ -13,7 +13,13 @@
     width: auto;
     padding-top: 80px;
 }
-
+h1 {
+    margin-bottom: 0;
+}
+h5 {
+    margin-top: 0;
+    color: grey;
+}
 .coloryellow {
    background-color: yellow; 
 }
