@@ -1,6 +1,9 @@
+.logo{
+    background-image: url(/img/pattern.png);
+    background-repeat: repeat-x;
+}
 
-
-#pattern_header {
+#pattern_header {;
     background-color: aqua;
 }
 
@@ -10,10 +13,12 @@ thead {
 
 th {
     color: white;
+    text-align: left;
 }
 
 .riga_celeste {
     background-color: #c1f3ff;
+    
 }
 
 .txt_grey {
