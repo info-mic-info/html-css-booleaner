@@ -1,11 +1,23 @@
-.logo{
-    background-image: url(/img/pattern.png);
+
+.titolo{
+    height: 150px;
+    width: 100%;
+    background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
+    background-color: #47a1ff;
+    position: relative;
 }
 
-#pattern_header {;
-    background-color: aqua;
+.logo{
+    height: 40%;
+    width: auto;
+    padding-top: 80px;
 }
+
+.coloryellow {
+   background-color: yellow; 
+}
+
 
 thead {
     background-color: #47a1ff;
@@ -28,3 +40,18 @@ th {
 .txt_blue {
     color: #c1f3ff;
 }
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    height: 208px;
+    width: 312px;
+    color: white;
+}
+
+.display {
+    background-image: url(../img/graph.jpg);
+    height: 208px;
+    width: 312px;
+    color: white;
+}
+
