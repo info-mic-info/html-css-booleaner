@@ -1,11 +1,25 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+
+
+#pattern_header {
+    background-color: aqua;
 }
 
+thead {
+    background-color: #47a1ff;
+}
 
-.header {
-    background-color: aqua;
-    width: 100%;
+th {
+    color: white;
+}
+
+.riga_celeste {
+    background-color: #c1f3ff;
+}
+
+.txt_grey {
+   color: grey; 
+}
+
+.txt_blue {
+    color: #c1f3ff;
 }
